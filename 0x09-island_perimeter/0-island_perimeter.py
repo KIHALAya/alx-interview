@@ -7,7 +7,8 @@ def island_perimeter(grid):
     """Calculates the perimeter of an island with no lakes.
 
     Args:
-        grid (list): A 2D list representing the grid where 1 is land and 0 is water.
+        grid (list): A 2D list representing the grid 
+        where 1 is land and 0 is water.
 
     Returns:
         int: The perimeter of the island.
