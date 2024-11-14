@@ -1,4 +1,4 @@
-#0x06. Star Wars API
+# 0x06. Star Wars API
 - Algorithm
 - API
 - JavaScript
@@ -6,7 +6,7 @@
 
 The “0. Star Wars Characters” project requires you to interact with an external API to fetch and display information about Star Wars characters based on the movie ID provided as an argument. To successfully complete this project, you need to be familiar with several key concepts related to web programming, API interaction, and asynchronous programming in JavaScript.
 
-##Concepts Needed:
+## Concepts Needed:
 - HTTP Requests in JavaScript:
 
 Understanding how to make HTTP requests to external services using the request module or alternatives like fetch in Node.js.
@@ -33,11 +33,11 @@ Iterating over arrays and manipulating data structures to format and display cha
 JavaScript Array Methods
 By familiarizing yourself with these concepts and resources, you will be able to efficiently retrieve, process, and display Star Wars characters from the specified movie using the Star Wars API, demonstrating your ability to work with external APIs and manage asynchronous code in JavaScript.
 
-##Additional Resources
+## Additional Resources
 - Mock Technical Interview
 
-##Requirements
-###General
+## Requirements
+### General
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted on Ubuntu 20.04 LTS using node (version 10.14.x)
 - All your files should end with a new line
